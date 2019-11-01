@@ -1,5 +1,7 @@
 # Unique-Paths-I
 The Unique Paths Problem from https://leetcode.com/problems/container-with-most-water/ 
+Difficulty: MEDIUM - HARD
+Solution created by Zachary Williams
 
 A robot is located at the top-left corner of a m x n grid (marked 'Start' in the diagram below).
 
