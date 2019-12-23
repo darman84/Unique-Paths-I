@@ -30,5 +30,5 @@ Note: m and n will be at most 100.
 
 ## Version History
 
-Version 1.0.0
+Version 1.0.0 <br/>
 -initial release of project without using recursion
