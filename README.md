@@ -1,7 +1,7 @@
 <h1 align="center">Unique-Paths-1
 </h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  Status: COMPLETE: <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
 > Difficulty: MEDIUM-HARD<br/>
