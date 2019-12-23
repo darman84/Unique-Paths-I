@@ -27,3 +27,8 @@ How many possible unique paths are there?
 Above is a 7 x 3 grid. How many possible unique paths are there?
 
 Note: m and n will be at most 100.
+
+## Version History
+
+Version 1.0.0
+-initial release of project without using recursion
